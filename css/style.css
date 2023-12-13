@@ -8942,8 +8942,6 @@ p + .list-img {
       .subpage-header__title {
         font-size: 60px; } }
   @media (min-width: 1600px) {
-    .subpage-header {
-      padding-left: 80px; }
       .subpage-header .subpage-header__block {
         margin-left: -40px; } }
 
@@ -10863,7 +10861,7 @@ p + .list-img {
         fill: #d6d6d6; }
   @media (min-width: 576px) {
     .img-info .img-info__description {
-      padding: 15px 43px 20px; }
+      padding: 35px 43px 40px; }
     .img-info .img-info__title {
       font-size: 26px; } }
 
