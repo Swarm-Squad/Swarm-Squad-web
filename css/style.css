@@ -6490,7 +6490,7 @@ p + .list-img {
         display: inline-block;
         text-align: center;
         line-height: 2;
-        border: 1px solid #7d7d89;
+        border: 1px solid #ffffff;
         border-radius: 50%;
         color: #ffffff;
         background-color: transparent;
@@ -7037,7 +7037,7 @@ p + .list-img {
         display: inline-block;
         text-align: center;
         line-height: 2;
-        border: 1px solid #484854;
+        border: 1px solid #ffffff;
         border-radius: 50%;
         color: #ffffff;
         background-color: transpareant;
@@ -9158,12 +9158,6 @@ p + .list-img {
       z-index: 2; }
     .page-nav-img__btn.btn-prev {
       margin-right: 15px; }
-      .page-nav-img__btn.btn-prev .wrapper-img {
-        background-image: url("../images/page-nav-img-01.jpg"); }
-    .page-nav-img__btn.btn-next {
-      margin-left: 15px; }
-      .page-nav-img__btn.btn-next .wrapper-img {
-        background-image: url("../images/page-nav-img-02.jpg"); }
     .page-nav-img__btn .btn__icon {
       display: none;
       -webkit-box-orient: horizontal;
